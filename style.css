@@ -145,45 +145,7 @@ footer .content{
     margin: auto;
     padding: 100px 20px;
 }
-.social-list {
-    list-style: none;
-    display: inline-flex;
-    text-align: center;
-    margin: 2em 0 0;
-    padding-right: 50%;
-    padding-left: 40%;
-    position:  relative;
-}
 
-.social-list__item {
-    margin: 0 .9em;
-    font-size: 3rem;
-}
-
-.social-list__link1 {
-    color: rgb(231, 80, 21);
-    content: icon;
-    padding: 1em;
-    
-}
-.social-list__link2 {
-    color: rgb(46, 146, 228);
-    content: icon;
-    symbols: inherit;
-    padding: 1em;
-}
-.social-list__link3 {
-    color: #111;
-    content: icon;
-    symbols: inherit;
-    padding: 1em;
-}
-.social-list__link4 {
-    color: #111;
-    content: icon;
-    symbols: inherit;
-    padding: 1em;
-}
 
 .grid-5{
     --row: 5;
