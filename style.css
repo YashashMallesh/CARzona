@@ -81,6 +81,7 @@ header img{
     left: 50%;
     transform: translateX(-50%);
     bottom: 0px;
+    border-radius: 15px;
 }
 .grid figure img{
     width: 100%;
