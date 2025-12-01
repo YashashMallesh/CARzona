@@ -73,6 +73,7 @@ header img{
     background-repeat: no-repeat;
     position: relative;
     background-size: cover;
+    border-radius: 15px;
 }
 .banner .image img{
     position: absolute;
